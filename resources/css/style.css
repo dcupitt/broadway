@@ -6,7 +6,25 @@ body {
 h1 {
   font-size: 70px;
   font-weight: bold;
+}
 
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.nav {
+  font-size: 18px;
+  color: white;
+}
+
+p {
+  font-size: 14px;
 }
 
 div.banner {
@@ -18,5 +36,8 @@ div.banner {
   text-align: left;
   background-color: dimgray;
   color: white;
-  font-size: 11px;
+}
+
+.small {
+    font-size: 11px;
 }
